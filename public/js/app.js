@@ -13946,8 +13946,8 @@ module.exports = __webpack_require__(14);
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__kirschbaum_development_laravel_translations_loader_namespace_common_kirschbaum_development_laravel_translations_loader__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__kirschbaum_development_laravel_translations_loader_namespace_common_kirschbaum_development_laravel_translations_loader___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__kirschbaum_development_laravel_translations_loader_namespace_common_kirschbaum_development_laravel_translations_loader__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__kirschbaum_development_laravel_translations_loader_namespace_common_kirschbaum_development_laravel_translations_loader_lang_index_js__ = __webpack_require__(48);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__kirschbaum_development_laravel_translations_loader_namespace_common_kirschbaum_development_laravel_translations_loader_lang_index_js___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__kirschbaum_development_laravel_translations_loader_namespace_common_kirschbaum_development_laravel_translations_loader_lang_index_js__);
 
 /**
  * First we will load all of this project's JavaScript dependencies which
@@ -13966,7 +13966,7 @@ __webpack_require__(15);
 __webpack_require__(39);
 
 
-console.log(__WEBPACK_IMPORTED_MODULE_0__kirschbaum_development_laravel_translations_loader_namespace_common_kirschbaum_development_laravel_translations_loader___default.a);
+console.log(__WEBPACK_IMPORTED_MODULE_0__kirschbaum_development_laravel_translations_loader_namespace_common_kirschbaum_development_laravel_translations_loader_lang_index_js___default.a);
 
 /***/ }),
 /* 15 */

@@ -15,5 +15,5 @@ require('./bootstrap');
 
 require('./components/Example');
 
-import languageBundle from '@kirschbaum-development/laravel-translations-loader?namespace=common!@kirschbaum-development/laravel-translations-loader';
+import languageBundle from "@kirschbaum-development/laravel-translations-loader?namespace=common!@kirschbaum-development/laravel-translations-loader!./../lang/index.js";
 console.log(languageBundle);
